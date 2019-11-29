@@ -35,10 +35,10 @@ Scraping LinkedIn Jobs and return data in json format.
 
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture2.PNG)
+![Code](https://github.com/Zeeshanahmad4/LinkedIn-Jobs-Scraper/blob/master/pics/Capture12.jpg)
 
 ## Output Data
-![Output-Data](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture3.PNG)
+![Output-Data](https://github.com/Zeeshanahmad4/LinkedIn-Jobs-Scraper/blob/master/pics/Capturejob.PNG)
 
 
 ### Built With
@@ -52,7 +52,7 @@ Scraping LinkedIn Jobs and return data in json format.
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us.git
+git clone https://github.com/Zeeshanahmad4/LinkedIn-Jobs-Scraper.git
 ```
 
 2. Install python packages
@@ -64,10 +64,10 @@ pip install request
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Scraper is for getting all the jobs info. 
-You have to enter job title i.e Datascience it will scrape all result against this search.
-Scraper will give output in json format which includes all the possible info about each job.
-YOU WILL NEED FIREFOX AND GECKO SELENIUM DRRIVER TO RUN THIS SCRIPT.
+The scraper is for getting all the job info. 
+You have to enter job title i.e Data science it will scrape all results against this search.
+The scraper will give output in JSON format which includes all the possible info about each job.
+YOU WILL NEED FIREFOX AND GECKO SELENIUM DRIVER TO RUN THIS SCRIPT.
 PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING PYCHARM OR ANY OTHER PYTHON IDE.
 
 
@@ -83,7 +83,7 @@ PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING P
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Zeeshanahmad4/LinkedIn-Jobs-Scraper/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
