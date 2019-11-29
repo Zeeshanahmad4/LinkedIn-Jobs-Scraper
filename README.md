@@ -6,7 +6,7 @@ Scraping LinkedIn Jobs and return data in json format.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us">
+  <a href="https://github.com/Zeeshanahmad4/LinkedIn-Jobs-Scraper">
     <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="128">
   </a>
   <h3 align="center">Bot/Scraper</h3>
